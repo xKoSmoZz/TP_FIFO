@@ -1,0 +1,16 @@
+Time resolution is 1 ps
+Error: Mid flag not set (or others wrong) !
+Time: 60 ns  Iteration: 1  Process: /test_fifo/P_TEST  File: /home/dld2321a/VHDL/zybo-tp7/test_fifo.0.vhd
+Error: Full flag not set (or others wrong) !
+Time: 76 ns  Iteration: 1  Process: /test_fifo/P_TEST  File: /home/dld2321a/VHDL/zybo-tp7/test_fifo.0.vhd
+Error: Full flag not set (or others wrong) !
+Time: 92 ns  Iteration: 1  Process: /test_fifo/P_TEST  File: /home/dld2321a/VHDL/zybo-tp7/test_fifo.0.vhd
+Error: Full flag not set (or others wrong) !
+Time: 108 ns  Iteration: 1  Process: /test_fifo/P_TEST  File: /home/dld2321a/VHDL/zybo-tp7/test_fifo.0.vhd
+Error: Data element READ is wrong (must be 3) !
+Time: 108 ns  Iteration: 1  Process: /test_fifo/P_TEST  File: /home/dld2321a/VHDL/zybo-tp7/test_fifo.0.vhd
+Error: Q output must be high impedance !
+Time: 172 ns  Iteration: 1  Process: /test_fifo/P_TEST  File: /home/dld2321a/VHDL/zybo-tp7/test_fifo.0.vhd
+Failure: FIN DE SIMULATION
+Time: 180 ns  Iteration: 1  Process: /test_fifo/P_TEST  File: /home/dld2321a/VHDL/zybo-tp7/test_fifo.0.vhd
+$finish called at time : 180 ns : File "/home/dld2321a/VHDL/zybo-tp7/test_fifo.0.vhd" Line 220

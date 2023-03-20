@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/dld2321a/VHDL/zybo-tp7/zybo-tp7.sim/sim_1/synth/timing/xsim/test_fifo_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module fifo
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/dld2321a/VHDL/zybo-tp7/test_fifo.0.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'test_fifo'
